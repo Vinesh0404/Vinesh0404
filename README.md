@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vinesh Mistry</h1>
 <h3 align="center">Software/Web Developer learning new Technologies</h3>
 
-- 🔭 I’m currently working on **MERN BASED PROJECT**
+- 🔭 I’m currently working on **GOVUE BASED PROJECT**
 
-- 🌱 I’m currently learning **Golang,MERN**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **Go Based Projects**
 
