@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Vinesh Mistry</h1>
-<h3 align="center">Software/Web Developer learning new Technologies</h3>
+<h3 align="center">Software Developer learning new Technologies</h3>
 
-- 🔭 I’m currently working on **MERN BASED PROJECT**
+- 🔭 I’m currently working on **DOTNET BACKEND PROJECT**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **DOTNET**
 
-- 👯 I’m looking to collaborate on **MERN Based Projects**
+- 👯 I’m looking to collaborate on **ASP.NET Based Projects**
 
 - 📫 How to reach me **vinesh04mistry@gmail.com**
 
