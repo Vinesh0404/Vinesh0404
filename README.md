@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinesh Mistry</h1>
-<h3 align="center">A passionate Dotnet Backend developer from India</h3>
+<h3 align="center">Dotnet Backend Developer From India!</h3>
 
-- 🌱 I’m currently learning **ASP.NET Backend**
+- 🌱 I’m currently learning **ASP.NET Backend.**
 
 - 📫 How to reach me **vinesh04mistrywork@gmail.com**
 
-- ⚡ Fun fact **Also a artist Who draws Anime characters.**
+- ⚡ Fun fact: **A artist Who draws Anime characters.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
